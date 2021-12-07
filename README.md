@@ -1,4 +1,4 @@
-# -E-Commerce-Back-End
+# E-Commerce-Back-End
 
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
